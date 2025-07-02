@@ -1,76 +1,106 @@
-**👋 Hi, I’m @Mansi-unge**
+<h1 align="center">👋 Hey there, I’m <span style="color:#38bdf8;">@Mansi-Unge</span>!</h1>
 
-**👀 About Me:**
+<p align="center">
+🎨 UI/UX Designer • 💻 Full Stack Developer • 🚀 Creative Technologist  
+</p>
 
-Hi! I’m Mansi Unge, a passionate UI/UX designer, frontend developer, and full-stack developer with a love for crafting innovative, user-centric digital experiences. With experience in React, Tailwind CSS, and the MERN stack, I specialize in building responsive, scalable, and aesthetically pleasing web applications  , currently balancing my journey as a student and a Jr. Developer at Prym Aerospace Pvt. Ltd.
+---
 
-I’ve worked on projects ranging from e-commerce platforms to real-time drone tracking systems and learning management systems. Beyond coding, my creativity thrives through dance, which inspires fresh ideas and keeps me energized.
+## 👩‍💻 About Me
 
-**🚀 Skills & Expertise:**
+Hey! I’m **Mansi Unge**, a passionate **UI/UX designer**, **frontend developer**, and **full-stack developer** on a mission to craft intuitive, responsive, and beautiful web experiences.
 
-🖌️ UI/UX Design
+✨ I specialize in `React`, `Tailwind CSS`, and the full `MERN stack`.  
+🎯 Currently juggling life as a **student** and **Jr. Developer at Prym Aerospace Pvt. Ltd.**
 
-Proficient in crafting intuitive, user-centric designs that elevate the user experience.
-Skilled in Figma for creating wireframes, prototypes, and high-fidelity designs.
-Focused on accessibility, responsiveness, and clean visual hierarchies.
+> “Design is intelligence made visible.” — Alina Wheeler
 
-🌐 Frontend Development
+💃 I dance to think creatively, and code to bring those ideas to life!
 
-Expertise in HTML5, CSS3, and JavaScript for building interactive user interfaces.
-Skilled in React.js for developing dynamic, component-based web applications.
-Proficient in Tailwind CSS and Bootstrap for efficient and responsive styling.
-Experience in enhancing frontend performance and optimizing user experiences.
+---
 
-⚙️ Backend Development
+## ⚡ My Superpowers
 
-Knowledge of Node.js and Express.js for creating robust server-side applications.
-Experience working with REST APIs for seamless frontend-backend integration.
+### 🎨 UI/UX Design
+- 🎯 Focused on **accessibility**, **visual hierarchy**, and **clean interaction flow**
+- 🛠 Tools: `Figma`, `FigJam`, `Pen & Paper`
+- 💡 I turn problems into pixel-perfect prototypes
 
-🛠️ Database Management
+### 🌐 Frontend Development
+- 🧩 Tech Stack: `HTML`, `CSS`, `JavaScript`, `React.js`, `Tailwind CSS`, `Bootstrap`
+- 🚀 I build **responsive**, **accessible**, and **lightning-fast** user interfaces
 
-Hands-on experience with MongoDB and MySQL for managing structured and unstructured data.
-Comfortable designing and optimizing database schemas for scalability.
+### ⚙️ Backend & APIs
+- 🔧 Tech: `Node.js`, `Express.js`, `MongoDB`, `MySQL`
+- 🔗 REST API development & integration, JWT authentication
 
-🔒 Authentication & Security
+### 📊 Real-Time & Full Stack Projects
+- 🛸 Built **Shakti**, a real-time drone tracking system at Prym Aerospace  
+- 🛒 Created **jewelry e-commerce** platform with user auth, cart & payment features  
+- 📚 Developed LMS dashboards with UI/UX principles and scalability in mind
 
-Proficient in implementing JWT and localStorage for secure user authentication.
+---
 
-🛍️ E-commerce Development
+## 🌟 Featured Project: [CrackIt.dev](https://github.com/yourusername/crackit.dev)
 
-Built projects with features like dynamic product rendering, add-to-cart functionality, and payment gateways.
-Specialized in creating personalized platforms such as a Maharashtrian jewelry website with user authentication.
+> 💡 “Tech Interviews, Cracked the Right Way.”
 
-📊 Real-Time Applications
+A full-stack interview prep platform built with the MERN stack 💥
 
-Worked on a drone tracking system (Shakti) with real-time flight data (pitch, roll, yaw, location, altitude, temperature)  during my intership at PRYM AEROSPACE PVT LTD .
-Proficient in using APIs for live updates and offline data storage.
+✅ 200+ DSA Problems with filters  
+💻 Real-Time Online Compiler  
+📚 Topic-wise Interview Questions (React, Java, Python, DBMS & more)  
+📅 Daily Challenges  
+📈 Progress Tracking
 
-📦 Version Control & Collaboration
+---
 
-Proficient in using Git and GitHub for version control and project collaboration.
-Experience working in teams with Agile workflows and task management tools like Trello or Jira.
+## 🛠 Tech Stack
 
-**🌱 I’m currently learning:**
+<div align="center">
+  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-Exploring more about cloud computing and API integration
-Exploring advanced features of the MERN stack for full-stack development.
+</div>
 
-**💞️ I’m looking to collaborate on:**
+---
 
-Full-stack projects with a focus on UI/UX design and user experience.
-Open-source contributions in e-commerce platforms, learning systems, and real-time applications.
+## 📚 Currently Exploring
 
-**📫 How to reach me:**
+- ☁️ Cloud computing & deployment
+- 🔧 Advanced MERN stack patterns
+- 🧠 API handling & microservices
+- 🌍 Open-source contributions
 
-Email: mansiunge@gmail.com
+---
 
-LinkedIn: https://www.linkedin.com/in/mansi-unge-8825ba312
+## 🤝 Let's Collaborate
 
+💬 I’m open to:
+- 🔧 **Full-stack projects** with a strong UI/UX focus  
+- 🚀 Open-source tools in **education**, **e-commerce**, or **real-time applications**
 
-**😄 Pronouns:**
+---
 
-She/Her
+## 📬 Reach Out To Me
 
-**⚡ Fun fact:**
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mansiunge@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mansi-unge-8825ba312)
 
-When I’m not coding, you’ll find me dancing to energize my creativity and spark fresh ideas! 💃✨
+---
+
+## 💖 Fun Fact
+
+> 💃 When I’m not coding, you’ll find me dancing — it’s how I debug life and energize ideas!
+
+---
+
+<h3 align="center">Thanks for stopping by! 🌈 Let's build something awesome together.</h3>
