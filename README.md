@@ -89,6 +89,40 @@ Hi! I’m **Mansi Unge**, a passionate **UI/UX designer**, **frontend developer*
 
 ---
 
+# 📊 Projects Highlight
+
+- **🚁 Shakti – Drone Tracking System**  
+  Real-time drone telemetry dashboard showing **pitch, roll, yaw, location, altitude, and temperature** using `WebSocket`.  
+  🛠️ Stack: React.js, Socket.io, Leaflet.js, Tailwind CSS  
+  🔍 Role: Built during internship at Prym Aerospace Pvt. Ltd.
+
+- **🏡 Ashiyana – Real Estate Platform**  
+  A full-stack MERN real estate app with **property listings**, **booking system**, **wishlist**, and **role-based dashboards**.  
+  🌐 Features: Auth0 JWT Auth, SMS/Email alerts, Leaflet Map + Google Places API  
+  🛠️ Stack: React.js, Node.js, Express.js, MongoDB, Tailwind CSS
+
+- **🧠 CrackIt.dev – Interview Prep Platform**  
+  MERN-based interview prep platform offering **200+ DSA questions**, **real-time code compiler**, **daily challenges**, and **progress tracking**.  
+  🛠️ Stack: React, Node.js, Express, MongoDB  
+  🌟 Focus: Company-wise filtering, quizzes, coding rounds & CS theory topics
+
+- **🧘‍♀️ Peaceful Pulse – Meditation & Wellness UI** *(Frontend Only)*  
+  A calm, visually appealing wellness website design with **guided meditation sections and soothing UI**.  
+  🛠️ Stack: HTML, CSS, JavaScript, Bootstrap  
+  🎯 Focus: UI/UX design, responsiveness, clean visual flow
+
+- **✅ Checklist – Task Manager App** *(Frontend Only)*  
+  Simple and interactive task manager to **add, delete, and complete tasks** with local state.  
+  🛠️ Stack: HTML, CSS, JavaScript, Bootstrap  
+  💡 Focus: Clean UI, smooth interactions, basic JS DOM manipulation
+
+- **🧱 MKCL UI Clone** *(First Dev Project – Non-Responsive)*  
+  My first development project — a **static clone of the MKCL website** built with **only HTML & CSS**, non-responsive.  
+  🛠️ Stack: HTML, CSS  
+  📚 Takeaway: Sparked my passion for web development and UI building
+
+---
+
 ## 🌟 Featured Projects
 
 ### 🧠 [CrackIt.dev](https://github.com/yourusername/crackit.dev) – Tech Interviews, Cracked the Right Way  
