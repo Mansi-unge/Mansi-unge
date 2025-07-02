@@ -91,42 +91,42 @@ Hi! I’m **Mansi Unge**, a passionate **UI/UX designer**, **frontend developer*
 
 # 📊 Projects Highlight
 
-- **🚁 Shakti – Drone Tracking System**  
-  Real-time drone telemetry dashboard showing **pitch, roll, yaw, location, altitude, and temperature** using `WebSocket`.  
-  🛠️ Stack: React.js, Socket.io, Leaflet.js, Tailwind CSS  
-  🔍 Role: Built during internship at Prym Aerospace Pvt. Ltd.
-
 - **🏡 Ashiyana – Real Estate Platform**  
   A full-stack MERN real estate app with **property listings**, **booking system**, **wishlist**, and **role-based dashboards**.  
   🌐 Features: Auth0 JWT Auth, SMS/Email alerts, Leaflet Map + Google Places API  
-  🛠️ Stack: React.js, Node.js, Express.js, MongoDB, Tailwind CSS
+  🛠️ Stack: React.js, Node.js, Express.js, MongoDB, Tailwind CSS  
+  🔗 [Live Demo](https://ashiyana.netlify.app/) • 💻 [Source Code](https://github.com/Mansi-unge/Ashiyana)
 
-- **🧠 CrackIt.dev – Interview Prep Platform**  
+  - **🧠 CrackIt.dev – Interview Prep Platform**  
   MERN-based interview prep platform offering **200+ DSA questions**, **real-time code compiler**, **daily challenges**, and **progress tracking**.  
   🛠️ Stack: React, Node.js, Express, MongoDB  
-  🌟 Focus: Company-wise filtering, quizzes, coding rounds & CS theory topics
+  🌟 Focus: Company-wise filtering, quizzes, coding rounds & CS theory topics  
+  🔗 [Live Demo](https://crack-it-dev.vercel.app/) • 💻 [Source Code](https://github.com/Mansi-unge/CrackItDev)
 
 - **🌐 Portfolio Website – Personal Dev Portfolio**  
   A responsive and animated portfolio built with the MERN stack to showcase my journey, skills, projects, and contact.  
   🎨 Includes sections for About, Projects, Skills, Contact, and Resume download.  
   🛠️ Stack: React.js, Node.js, Express.js, MongoDB, Tailwind CSS, GSAP  
-  🔗 [View Site](https://your-portfolio-link.com) • [Source Code](https://github.com/Mansi-unge/your-portfolio-repo)
+  🔗 [Live Site](https://mansiunge.vercel.app/) • 💻 [Source Code](https://github.com/Mansi-unge/Portfolio.git)
 
 - **🧘‍♀️ Peaceful Pulse – Meditation & Wellness UI** *(Frontend Only)*  
   A calm, visually appealing wellness website design with **guided meditation sections and soothing UI**.  
   🛠️ Stack: HTML, CSS, JavaScript, Bootstrap  
-  🎯 Focus: UI/UX design, responsiveness, clean visual flow
+  🎯 Focus: UI/UX design, responsiveness, clean visual flow  
+  🔗 [Live Demo](https://github.com/Mansi-unge/Peaceful-pulse.git) • 💻 [Source Code](https://mansi-unge.github.io/Peaceful-pulse/)
 
-- **✅ Checklist – Task Manager App** *(Frontend Only)*  
+  - **✅ Checklist – Task Manager App** *(Frontend Only)*  
   Simple and interactive task manager to **add, delete, and complete tasks** with local state.  
   🛠️ Stack: HTML, CSS, JavaScript, Bootstrap  
-  💡 Focus: Clean UI, smooth interactions, basic JS DOM manipulation
+  💡 Focus: Clean UI, smooth interactions, basic JS DOM manipulation  
+  🔗 [Live Demo](https://mansi-unge.github.io/checkllist/) • 💻 [Source Code](https://github.com/Mansi-unge/checkllist)
 
-- **🧱 MKCL UI Clone** *(First Dev Project – Non-Responsive)*  
-  My first development project — a **static clone of the MKCL website** built with **only HTML & CSS**, non-responsive.  
-  🛠️ Stack: HTML, CSS  
-  📚 Takeaway: Sparked my passion for web development and UI building
   
+- **🚁 Shakti – Drone Tracking System**  
+  Real-time drone telemetry dashboard showing **pitch, roll, yaw, location, altitude, and temperature** using `WebSocket`.  
+  🛠️ Stack: React.js, Socket.io, Leaflet.js, Tailwind CSS  
+  🔍 Role: Built during internship at Prym Aerospace Pvt. Ltd.
+    
 ---
 
 ## 🌟 Featured Projects
