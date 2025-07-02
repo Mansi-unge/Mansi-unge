@@ -106,6 +106,12 @@ Hi! I’m **Mansi Unge**, a passionate **UI/UX designer**, **frontend developer*
   🛠️ Stack: React, Node.js, Express, MongoDB  
   🌟 Focus: Company-wise filtering, quizzes, coding rounds & CS theory topics
 
+- **🌐 Portfolio Website – Personal Dev Portfolio**  
+  A responsive and animated portfolio built with the MERN stack to showcase my journey, skills, projects, and contact.  
+  🎨 Includes sections for About, Projects, Skills, Contact, and Resume download.  
+  🛠️ Stack: React.js, Node.js, Express.js, MongoDB, Tailwind CSS, GSAP  
+  🔗 [View Site](https://your-portfolio-link.com) • [Source Code](https://github.com/Mansi-unge/your-portfolio-repo)
+
 - **🧘‍♀️ Peaceful Pulse – Meditation & Wellness UI** *(Frontend Only)*  
   A calm, visually appealing wellness website design with **guided meditation sections and soothing UI**.  
   🛠️ Stack: HTML, CSS, JavaScript, Bootstrap  
@@ -120,7 +126,7 @@ Hi! I’m **Mansi Unge**, a passionate **UI/UX designer**, **frontend developer*
   My first development project — a **static clone of the MKCL website** built with **only HTML & CSS**, non-responsive.  
   🛠️ Stack: HTML, CSS  
   📚 Takeaway: Sparked my passion for web development and UI building
-
+  
 ---
 
 ## 🌟 Featured Projects
