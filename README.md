@@ -16,67 +16,53 @@
 
 Hi! I’m **Mansi Unge**, a passionate **UI/UX designer**, **frontend developer**, and **full-stack web developer** who loves crafting visually stunning and functional digital experiences.
 
-💡 Whether it’s sleek UI, robust backend logic, or real-time dashboards — I build digital products that **look good and perform better**.  
+💡 From sleek UI designs to full-stack logic, I build digital products that **look good and work even better**.  
 🎯 Specialized in `React`, `Tailwind CSS`, and the complete `MERN` stack.
 
-💃 Outside the code editor, I dance to refresh my creativity and bring new perspectives to my work!
+💃 Outside the editor, dance fuels my creativity and flow! ✨
 
 ---
 
-## ⚡ My Superpowers
+## 🛠 Tech Stack & Skills
 
-### 🎨 UI/UX & Frontend Development
-- HTML5, CSS3, JavaScript, React.js, Vite, Redux, Tailwind CSS, Bootstrap  
-- Mobile-first design, accessibility, and responsive interfaces  
-- UX prototyping, micro-interactions, performance optimization  
+<div align="center">
 
-### 🧩 Backend Development
-- Node.js, Express.js, REST APIs, WebSockets  
-- JWT, OAuth authentication, secure backend systems  
+### 👩‍💻 Frontend Development  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-### 🗃️ Database & Integrations
-- MongoDB, MySQL, Mongoose  
-- Efficient schema design, querying, and integrations  
+### 🧩 Backend & APIs  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![REST](https://img.shields.io/badge/REST%20API-005571?style=flat&logo=api&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socketdotio&logoColor=white)
 
-### 🚀 Tools & DevOps
-- Git, GitHub, Postman, VS Code  
-- Deployments with Vercel, Render, Netlify  
+### 🗃️ Databases  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
 
-### 💻 Programming Languages
-- C, C++, Core Java  
+### ⚙️ Dev Tools & Deployment  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 
-### 🤹 Soft Skills
-- Creativity | Teamwork | Communication | Problem Solving
+### 💻 Programming Languages  
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
----
-
-## 🌟 Featured Projects
-
-### 🧠 [CrackIt.dev](https://github.com/yourusername/crackit.dev) – Tech Interviews, Cracked the Right Way
-> A full-stack MERN interview prep platform
-
-- ✅ 200+ DSA Problems with Company & Topic Filters  
-- 💻 Real-Time Compiler Integration  
-- 📊 Track Progress & Streaks  
-- 📚 Tech-Wise Roadmaps & Daily Challenges  
-
----
-
-### 🏡 [Ashiyana – Real Estate Platform](https://github.com/Mansi-unge/Ashiyana)
-
-A feature-rich MERN real estate web app to **browse, wishlist, and schedule property visits**.
-
-#### 🔑 Features:
-- 📍 Property Listings with Location & Images  
-- 📅 Visit Booking + SMS & Email Notifications  
-- ❤️ Wishlist Management  
-- 🔐 JWT Auth + RBAC + Auth0  
-- 🗺️ Leaflet Maps + Google Places API  
-
-#### 🛠️ Stack:
-`React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind`, `JWT`, `Leaflet`
-
-> 💙 Built with passion for seamless real estate experiences!
+</div>
 
 ---
 
@@ -86,11 +72,10 @@ A feature-rich MERN real estate web app to **browse, wishlist, and schedule prop
 **Prym Aerospace Pvt. Ltd.**, Jalna  
 🗓️ *Jan 2025 – May 2025*
 
-- Built scalable web apps using **MongoDB, Express.js, React, Node.js**  
-- Developed real-time **drone telemetry system** using WebSocket + Leaflet.js  
-- Improved UI/UX with Tailwind CSS, boosting engagement  
-- Reduced load time by **30%** via frontend optimization  
-- Worked in Agile sprints with Git-based workflows  
+- Developed scalable MERN applications with real-time drone telemetry using WebSocket and Leaflet.js  
+- Built REST APIs and reduced frontend load time by 30%  
+- Designed responsive UI/UX using Tailwind CSS  
+- Worked in Agile sprints with Git-based version control
 
 ---
 
@@ -98,58 +83,56 @@ A feature-rich MERN real estate web app to **browse, wishlist, and schedule prop
 **Prym Aerospace Pvt. Ltd.**, Jalna  
 🗓️ *Oct 2024 – Jan 2025*
 
-- Created real-time dashboards using **React.js** + **Socket.io**  
-- Implemented **status-based filtering** (↑ monitoring efficiency by 40%)  
-- Integrated REST & WebSocket APIs  
-- Ensured full **mobile responsiveness** with Tailwind CSS
+- Created interactive dashboards using React + Socket.io  
+- Improved monitoring efficiency by 40% with real-time filters  
+- Integrated APIs and ensured mobile responsiveness
 
 ---
 
-## 🛠 Tech Stack
+## 🌟 Featured Projects
 
-<div align="center">
+### 🧠 [CrackIt.dev](https://github.com/yourusername/crackit.dev) – Tech Interviews, Cracked the Right Way  
+> MERN full-stack platform for interview preparation  
+- 🧩 200+ DSA Questions with filters  
+- 💻 Online Code Compiler  
+- 📊 Track Progress & Streaks  
+- 📚 Topic Roadmaps & Rapid-Fire Questions  
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+---
 
-</div>
+### 🏡 [Ashiyana – Real Estate Platform](https://github.com/Mansi-unge/Ashiyana)
+
+> A feature-rich real estate web app to explore, save, and book properties
+
+- 📍 Leaflet Map + Google Places API  
+- 📅 Schedule Property Visits  
+- ❤️ Wishlist + Reviews  
+- 🔐 Auth0-based Role-Based Auth (JWT)
 
 ---
 
 ## 🌱 Currently Exploring
 
-- ☁️ Cloud platforms & deployment pipelines  
-- 🔐 OAuth, advanced auth patterns  
-- 💬 WebSocket scalability & real-time infra  
-- 🧩 Microservices & modular monorepos
+- ☁️ Cloud Infrastructure & CI/CD Pipelines  
+- 🔐 OAuth2.0 and Security Patterns  
+- ⚡ WebSocket Scaling & Deployment  
+- 🧩 Microservice Architectures
 
 ---
 
 ## 🤝 Let’s Collaborate
 
-I'm open to:
-- 🌟 Full-stack apps with standout UI/UX  
-- 📦 DevTools, E-commerce, Learning platforms  
-- 🌍 Contributing to meaningful open-source initiatives
+I’m open to:
+- 🌐 Full-stack projects with a strong UI/UX foundation  
+- 🛍️ Tools for e-commerce, learning systems, or real-time apps  
+- 🌱 Open-source contributions with meaningful impact
 
 ---
 
 ## 💃 Fun Fact
 
-> When I’m not coding, I’m dancing!  
-> It fuels my creativity and clears my logic bugs too 🎵🧠
+> When I’m not coding, I’m dancing — it clears bugs from both my mind and code 💃✨
 
 ---
 
-<h3 align="center">✨ Thanks for visiting! Let’s build something amazing together ✨</h3>
+<h3 align="center">🌈 Thanks for visiting! Let’s build something impactful together 🌈</h3>
