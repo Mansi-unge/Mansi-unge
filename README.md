@@ -97,7 +97,7 @@ Hi! I’m **Mansi Unge**, a passionate **UI/UX designer**, **frontend developer*
   🛠️ Stack: React.js, Node.js, Express.js, MongoDB, Tailwind CSS  
   🔗 [Live Demo](https://ashiyana.netlify.app/) • 💻 [Source Code](https://github.com/Mansi-unge/Ashiyana)
 
-  - **🧠 CrackIt.dev – Interview Prep Platform**  
+- **🧠 CrackIt.dev – Interview Prep Platform**  
   MERN-based interview prep platform offering **200+ DSA questions**, **real-time code compiler**, **daily challenges**, and **progress tracking**.  
   🛠️ Stack: React, Node.js, Express, MongoDB  
   🌟 Focus: Company-wise filtering, quizzes, coding rounds & CS theory topics  
@@ -115,7 +115,7 @@ Hi! I’m **Mansi Unge**, a passionate **UI/UX designer**, **frontend developer*
   🎯 Focus: UI/UX design, responsiveness, clean visual flow  
   🔗 [Live Demo](https://github.com/Mansi-unge/Peaceful-pulse.git) • 💻 [Source Code](https://mansi-unge.github.io/Peaceful-pulse/)
 
-  - **✅ Checklist – Task Manager App** *(Frontend Only)*  
+- **✅ Checklist – Task Manager App** *(Frontend Only)*  
   Simple and interactive task manager to **add, delete, and complete tasks** with local state.  
   🛠️ Stack: HTML, CSS, JavaScript, Bootstrap  
   💡 Focus: Clean UI, smooth interactions, basic JS DOM manipulation  
