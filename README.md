@@ -160,6 +160,7 @@ Hi! I’m **Mansi Unge**, a passionate **UI/UX designer**, **frontend developer*
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mansi-unge&theme=default&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=Mansi-unge&theme=default&hide_border=false)
+![](https://github-contributor-stats.vercel.app/api?username=Mansi-unge&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mansi-unge&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
