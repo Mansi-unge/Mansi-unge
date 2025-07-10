@@ -26,7 +26,7 @@ Hi! I’m **Mansi Unge**, a passionate **UI/UX designer**, **frontend developer*
 
 ## 🛠 Tech Stack & Skills
 
-<div align="center">
+<div>
 
 ### 👩‍💻 Frontend Development  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
