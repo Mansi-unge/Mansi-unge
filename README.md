@@ -8,7 +8,7 @@
 <a href="mailto:mansiunge@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/mansi-unge-8825ba312"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
 <a href="https://twitter.com/@MansiUnge60256"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"></a>
-<a href="https://mansiunge.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white"></a>
+<a href="https://hashnode.com/@MansiUnge"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white"></a>
 </p>
 
 ---
