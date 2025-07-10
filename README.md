@@ -1,10 +1,10 @@
-<h1 align="center">👋 Hey there, I’m <span style="color:#38bdf8;">@Mansi-Unge</span>!</h1>
+<h1>👋 Hey there, I’m <span style="color:#38bdf8;">@Mansi-Unge</span>!</h1>
 
-<p align="center">
+<p>
 🎨 UI/UX Designer • 💻 Full Stack Developer • 🧠 Creative Technologist  
 </p>
 
-<p align="center">
+<p>
 <a href="mailto:mansiunge@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/mansi-unge-8825ba312"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
 <a href="https://twitter.com/@MansiUnge60256"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"></a>
