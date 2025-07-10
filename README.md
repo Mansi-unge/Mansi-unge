@@ -157,6 +157,22 @@ Hi! I’m **Mansi Unge**, a passionate **UI/UX designer**, **frontend developer*
 
 ---
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mansi-unge&theme=default&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Mansi-unge&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mansi-unge&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Mansi-unge&theme=default&no-frame=false&no-bg=true&margin-w=4)  
+
+---
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Mansi-unge&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
 ## 🌱 Currently Exploring
 
 - ☁️ Cloud Infrastructure & CI/CD Pipelines  
@@ -184,19 +200,3 @@ I’m open to:
 <h3 align="center">🌈 Thanks for visiting! Let’s build something impactful together 🌈</h3>
 
 
-
-# 💫 About Me:
-Hi! I’m Mansi Unge, a passionate UI/UX designer, frontend developer, and full-stack web developer who loves crafting visually stunning and functional digital experiences.<br><br>💡 From sleek UI designs to full-stack logic, I build digital products that look good and work even better.<br>🎯 Specialized in React, Tailwind CSS, and the complete MERN stack.<br><br>💃 Outside the editor, dance fuels my creativity and flow! ✨<br><br>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mansi-unge&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mansi-unge&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mansi-unge&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mansi-unge&theme=default&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mansi-unge&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
