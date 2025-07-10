@@ -126,7 +126,13 @@ Hi! I’m **Mansi Unge**, a passionate **UI/UX designer**, **frontend developer*
   Real-time drone telemetry dashboard showing **pitch, roll, yaw, location, altitude, and temperature** using `WebSocket`.  
   🛠️ Stack: React.js, Socket.io, Leaflet.js, Tailwind CSS  
   🔍 Role: Built during internship at Prym Aerospace Pvt. Ltd.
-    
+
+- **👑 PARAMPARA – Maharashtrian Jewelry Store** *(Frontend – Ongoing)*  
+  A niche **e-commerce jewelry platform** showcasing traditional **Maharashtrian jewelry** like *Nath*, *Thushi*, *Tanmani*, and more.  
+  🎯 Features: Category-wise listing, responsive design, dynamic product rendering via `products.json`  
+  💡 Upcoming: Add-to-cart, favorites, user login, and Razorpay integration  
+  🛠️ Stack: React.js, Vite, Tailwind CSS
+  
 ---
 
 ## 🌟 Featured Projects
