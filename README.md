@@ -164,7 +164,7 @@ Hi! I’m **Mansi Unge**, a passionate **UI/UX designer**, **frontend developer*
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mansi-unge&theme=dracula&no-frame=false&no-bg=false&margin-w=4)  
+![](https://github-profile-trophy.vercel.app/?username=Mansi-unge&theme=default&no-frame=false&no-bg=true&margin-w=4)   
 
 ---
 ## 🌱 Currently Exploring
