@@ -1,4 +1,4 @@
-<h1>👋 Hey there, I’m <span style="color:#38bdf8;">@Mansi-Unge</span>!</h1>
+<h1>👋 Hey there, I’m <span style="color:#38bdf8;">Mansi Unge</span>!</h1>
 
 <p>
 🎨 UI/UX Designer • 💻 Full Stack Developer • 🧠 Creative Technologist  
