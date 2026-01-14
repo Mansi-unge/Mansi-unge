@@ -163,14 +163,6 @@ Outside the editor, dance fuels my creativity and flow!
 ![](https://github-profile-trophy.vercel.app/?username=Mansi-unge&theme=default&no-frame=false&no-bg=true&margin-w=4)   
 
 ---
-## Currently Exploring
-
-- Cloud Infrastructure & CI/CD Pipelines  
-- OAuth2.0 and Security Patterns  
-- WebSocket Scaling & Deployment  
-- Microservice Architectures
-
----
 
 ## Let’s Collaborate
 
