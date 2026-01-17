@@ -159,12 +159,6 @@ Outside the editor, dance fuels my creativity and flow!
 
 ---
 
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mansi-unge&theme=default&no-frame=false&no-bg=true&margin-w=4)   
-![](https://github-profile-trophy.vercel.app/?username=Mansi-unge&theme=default&no-frame=false&no-bg=true&margin-w=4)
-
----
-
 ## Let’s Collaborate
 
 I’m open to:
