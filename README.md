@@ -110,19 +110,6 @@ Outside the editor, dance fuels my creativity and flow!
   Includes sections for About, Projects, Skills, Contact, and Resume download.  
   Stack: React.js, Node.js, Express.js, MongoDB, Tailwind CSS, GSAP  
   [Live Site](https://mansiunge.vercel.app/) • [Source Code](https://github.com/Mansi-unge/Portfolio.git)
-
-- ** Peaceful Pulse – Meditation & Wellness UI** *(Frontend Only)*  
-  A calm, visually appealing wellness website design with **guided meditation sections and soothing UI**.  
-  Stack: HTML, CSS, JavaScript, Bootstrap  
-  Focus: UI/UX design, responsiveness, clean visual flow  
-  [Live Demo](https://github.com/Mansi-unge/Peaceful-pulse.git) • [Source Code](https://mansi-unge.github.io/Peaceful-pulse/)
-
-- ** Checklist – Task Manager App** *(Frontend Only)*  
-  Simple and interactive task manager to **add, delete, and complete tasks** with local state.  
-  Stack: HTML, CSS, JavaScript, Bootstrap  
-  Focus: Clean UI, smooth interactions, basic JS DOM manipulation  
-  [Live Demo](https://mansi-unge.github.io/checkllist/) • [Source Code](https://github.com/Mansi-unge/checkllist)
-
   
 - ** Shakti – Drone Tracking System**  
   Real-time drone telemetry dashboard showing **pitch, roll, yaw, location, altitude, and temperature** using `WebSocket`.  
