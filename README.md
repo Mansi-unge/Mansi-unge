@@ -359,14 +359,6 @@ I'm a continuous learner who loves exploring new technologies, contributing to m
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Mansi-unge&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mansi-unge&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
 <img src="https://streak-stats.demolab.com?user=Mansi-unge&theme=tokyonight&hide_border=true"/>
 
 </p>
@@ -378,46 +370,6 @@ I'm a continuous learner who loves exploring new technologies, contributing to m
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mansi-unge&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mansi-unge&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</p>
-
----
-
-## 💻 Coding Activity
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mansi-unge&theme=tokyonight"/>
-
-</p>
-
----
-
-## ⚡ Productivity Stats
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mansi-unge&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mansi-unge&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mansi-unge&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mansi-unge&theme=tokyonight&utcOffset=5.5"/>
 
 </p>
 
