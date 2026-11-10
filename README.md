@@ -355,45 +355,6 @@ I'm a continuous learner who loves exploring new technologies, contributing to m
 
 ---
 
-## 📊 Data Analytics Projects
-
-### 📈 Sales Performance Dashboard
-
-- Built interactive dashboards using **Power BI**
-- KPI Tracking
-- Revenue Analysis
-- Regional Sales Insights
-- Dynamic Filters
-
----
-
-### 📉 HR Analytics Dashboard
-
-- Employee Attrition Analysis
-- Department Performance
-- Hiring Trends
-- Interactive Visualizations
-
----
-
-### 📚 Student Performance Dashboard
-
-- Academic Performance Analysis
-- Attendance Insights
-- Department Statistics
-- Interactive Reports
-
----
-
-### 📊 Tableau Story Dashboard
-
-- Business Storytelling
-- Interactive Dashboards
-- Charts & KPIs
-- Business Insights
-
----
-
 # 📈 GitHub Analytics
 
 <p align="center">
