@@ -87,7 +87,8 @@ I'm a continuous learner who loves exploring new technologies, contributing to m
 - ☁️ Interested in Cloud Computing, DevOps, and scalable software architecture
 - 💃 When I'm not coding, you'll probably find me dancing or exploring new technologies.
 
----## 🛠️ Tech Stack & Tools
+---
+## 🛠️ Tech Stack & Tools
 
 ### 💻 Programming Languages
 
